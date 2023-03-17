@@ -1,0 +1,30 @@
+//@version=4
+strategy("BTC Breakout Short Selling with Hedge", shorttitle="BTC_BSSH", overlay=true)
+
+// Input parameters
+atr_length = input(14, title="ATR Length", minval=1)
+breakout_length = input(50, title="Breakout Lookback Length", minval=1)
+hedge_ratio = input(0.5, title="Hedge Ratio", type=input.float)
+stop_loss_atr = input(2, title="Stop Loss Multiplier (ATR)", type=input.float)
+take_profit_atr = input(3, title="Take Profit Multiplier (ATR)", type=input.float)
+
+// Calculate Average True Range (ATR)
+atr = atr(atr_length)
+
+// Identify breakout
+lowest_low = lowest(low, breakout_length)
+breakout = close < lowest_low
+
+// Entry conditions
+enter_short = breakout
+
+// Stop Loss and Take Profit levels
+stop_loss_level = close + atr * stop_loss_atr
+take_profit_level = close - atr * take_profit_atr
+
+// Execute strategy
+strategy.entry("Short", strategy.short, when=enter_short)
+strategy.exit("SL/TP", "Short", stop=stop_loss_level, limit=take_profit_level)
+
+// Hedge position
+strategy.entry("Hedge", strategy.long, qty_percent=hedge_ratio * 100, when=enter_short)
