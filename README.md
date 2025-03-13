@@ -41,3 +41,6 @@ Contributions are welcome! If you have an improvement or a new strategy to add, 
 ## License
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Update (March 13, 2025) 📝
+- Boosted algo speed for quicker trade processing
