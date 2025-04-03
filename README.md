@@ -42,5 +42,5 @@ Contributions are welcome! If you have an improvement or a new strategy to add, 
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Update (April 02, 2025) 📝
-- Implemented multi-timeframe data support 📊
+## Update (April 03, 2025) 📝
+- Strengthened risk controls with flexible stop-loss ⚠️
