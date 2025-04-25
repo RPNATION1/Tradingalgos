@@ -42,5 +42,5 @@ Contributions are welcome! If you have an improvement or a new strategy to add, 
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Update (April 24, 2025) 📝
-- Fine-tuned position sizing for optimal funds use 💰
+## Update (April 25, 2025) 📝
+- Boosted algo speed for quicker trade processing
