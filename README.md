@@ -44,3 +44,6 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Update (May 01, 2025) 📝
 - Boosted algo speed for quicker trade processing 🔔
+
+## Update (May 01, 2025) 📝
+- Update for RPNATION1/Tradingalgos: Configuration missing in update.ini
