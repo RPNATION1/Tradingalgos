@@ -56,3 +56,6 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 **Website**: https://ghostainews.com/
 **Discord**: https://discord.gg/BfA23aYz
+
+## Configuration missing in update.ini for RPNATION1/Tradingalgos: Expected sections TradingalgosUpdate and TradingalgosEmojis - May 01, 2025 📝
+- 
