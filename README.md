@@ -49,4 +49,10 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 - Update for RPNATION1/Tradingalgos: Configuration missing in update.ini
 
 ## Configuration missing in update.ini for RPNATION1/Tradingalgos - May 01, 2025 📝
+-
+
+## Configuration missing in update.ini for RPNATION1/Tradingalgos - May 01, 2025 📝
 - 
+
+**Website**: https://ghostainews.com/
+**Discord**: https://discord.gg/BfA23aYz
