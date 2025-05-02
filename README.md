@@ -46,7 +46,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Latest Update
 
-**Status Update**: Status Update: Boosted algo speed for quicker trade processing - May 01, 2025 📝  
+**Status Update**: Status Update: Implemented multi-timeframe data support - May 02, 2025 📝  
+- Implemented multi-timeframe data support
 - Boosted algo speed for quicker trade processing
 
 **Website**: https://ghostainews.com/
