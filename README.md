@@ -42,26 +42,4 @@ Contributions are welcome! If you have an improvement or a new strategy to add, 
 
 This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Update (May 01, 2025) 📝
-- Boosted algo speed for quicker trade processing 🔔
-
-## Update (May 01, 2025) 📝
-- Update for RPNATION1/Tradingalgos: Configuration missing in update.ini
-
-## Configuration missing in update.ini for RPNATION1/Tradingalgos - May 01, 2025 📝
--
-
-## Configuration missing in update.ini for RPNATION1/Tradingalgos - May 01, 2025 📝
-- 
-
-**Website**: https://ghostainews.com/
-**Discord**: https://discord.gg/BfA23aYz
-
-## Configuration missing in update.ini for RPNATION1/Tradingalgos: Expected sections TradingalgosUpdate and TradingalgosEmojis - May 01, 2025 📝
--
-
-## Configuration missing in update.ini for RPNATION1/Tradingalgos: Expected sections TradingalgosUpdate and TradingalgosEmojis - May 01, 2025 📝
--
-
-## Configuration missing in update.ini for RPNATION1/Tradingalgos: Expected sections TradingalgosUpdate and TradingalgosEmojis - May 01, 2025 📝
 - 
