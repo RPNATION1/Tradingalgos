@@ -46,7 +46,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Latest Update
 
-**Status Update**: Status Update: Implemented multi-timeframe data support - May 02, 2025 📝  
+**Status Update**: Status Update: Strengthened risk controls with flexible stop-loss with Emoji - May 03, 2025 📝  
+- Strengthened risk controls with flexible stop-loss 🔍
 - Implemented multi-timeframe data support
 - Boosted algo speed for quicker trade processing
 
