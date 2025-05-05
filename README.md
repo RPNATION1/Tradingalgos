@@ -46,7 +46,8 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 
 ## Latest Update
 
-**Status Update**: Status Update: Embedded live market sentiment tracking with Emoji - May 04, 2025 📝  
+**Status Update**: Status Update: Fine-tuned position sizing for optimal funds use with Emoji - May 05, 2025 📝  
+- Fine-tuned position sizing for optimal funds use 🕒
 - Embedded live market sentiment tracking ⚠️
 - Strengthened risk controls with flexible stop-loss 🔍
 - Implemented multi-timeframe data support
