@@ -47,6 +47,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Latest Update
 
 **Status Update**: Status Update: Improved latency handling for high-frequency trades with Emoji - May 28, 2025 📝  
+- Fine-tuned position sizing for optimal funds use 💹 - June 24, 2025 📝
 - Embedded live market sentiment tracking 📊 - June 23, 2025 📝
 - Strengthened risk controls with flexible stop-loss - June 22, 2025 📝
 - Implemented multi-timeframe data support ⚠️ - June 21, 2025 📝
