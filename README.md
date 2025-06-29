@@ -47,6 +47,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 ## Latest Update
 
 **Status Update**: Status Update: Improved latency handling for high-frequency trades with Emoji - May 28, 2025 📝  
+- Integrated cross-exchange arbitrage opportunities ⚠️ - June 28, 2025 📝
 - Improved latency handling for high-frequency trades 🕒 - June 27, 2025 📝
 - Enhanced backtesting with historical data integration - June 26, 2025 📝
 - Added predictive analytics for trend detection - June 25, 2025 📝
